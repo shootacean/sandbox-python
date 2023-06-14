@@ -6,6 +6,7 @@ authors = [
     { name = "Shota Narisaka", email = "shootacean@gmail.com" }
 ]
 dependencies = [
+    "flask~=2.3.2",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
