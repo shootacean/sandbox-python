@@ -4,6 +4,7 @@
 This repository is a place to try out various aspects of Python.
 
 ## Todo
+- [x] Rye
 - [/] Flask
 - [ ] Multi Process
 - [ ] Celery
