@@ -8,7 +8,7 @@ This repository is a place to try out various aspects of Python.
 - [x] Flask
 - [x] ( VSCode Dev Container )
 - [x] Unit Test
-- [ ] Multi Process
+- [/] Multi Process
 - [ ] Celery
 - [ ] Static Analysis
 - [ ] Reverse Engineering
