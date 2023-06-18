@@ -5,8 +5,9 @@ This repository is a place to try out various aspects of Python.
 
 ## Todo
 - [x] Rye
-- [/] Flask
+- [x] Flask
 - [x] ( VSCode Dev Container )
+- [x] Unit Test
 - [ ] Multi Process
 - [ ] Celery
 - [ ] Static Analysis
