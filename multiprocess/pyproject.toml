@@ -5,7 +5,9 @@ description = "Add a short description here"
 authors = [
     { name = "Shota Narisaka", email = "shootacean@gmail.com" }
 ]
-dependencies = []
+dependencies = [
+    "ruff~=0.0.272",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
@@ -18,3 +20,6 @@ managed = true
 
 [tool.hatch.metadata]
 allow-direct-references = true
+
+[tool.ruff]
+select = ["ALL"]
