@@ -9,6 +9,7 @@ This repository is a place to try out various aspects of Python.
 - [x] ( VSCode Dev Container )
 - [x] Unit Test
 - [/] Multi Process
+- [/] Excel 
 - [ ] Celery
-- [ ] Static Analysis
+- [/] Static Analysis
 - [ ] Reverse Engineering
